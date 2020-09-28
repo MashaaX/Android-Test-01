@@ -1,2 +1,2 @@
-rootProject.name='new_sample'
 include ':app'
+rootProject.name = "Mobile06SipleCalcSolution"
